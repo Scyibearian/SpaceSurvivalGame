@@ -1,6 +1,11 @@
 #Scyibearian added ignores
 *.pdb
 *.pak
+*.exe
+*.pch
+#*.ubulk
+#*.uexp
+
 
 # Visual Studio 2015 user specific files
 .vs/
