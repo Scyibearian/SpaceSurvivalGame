@@ -1,2 +1,2 @@
 # SpaceSurvivalGame
-A game made by Pellioper Developments
+A game made by Pallioper Developments
